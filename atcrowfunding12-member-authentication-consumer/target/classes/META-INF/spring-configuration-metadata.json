@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "show.message",
+      "type": "com.atguigu.crowd.config.ShowMessageConfigProperties",
+      "sourceType": "com.atguigu.crowd.config.ShowMessageConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "show.message.appcode",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShowMessageConfigProperties"
+    },
+    {
+      "name": "show.message.host",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShowMessageConfigProperties"
+    },
+    {
+      "name": "show.message.method",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShowMessageConfigProperties"
+    },
+    {
+      "name": "show.message.path",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShowMessageConfigProperties"
+    },
+    {
+      "name": "show.message.phone-num",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShowMessageConfigProperties"
+    },
+    {
+      "name": "show.message.skin",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.crowd.config.ShowMessageConfigProperties"
+    }
+  ],
+  "hints": []
+}

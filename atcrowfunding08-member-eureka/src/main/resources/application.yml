@@ -1,0 +1,17 @@
+eureka:
+  instance:
+    hostname: localhost
+    instance-id: eureka-1000
+    prefer-ip-address: true
+  client:
+    register-with-eureka: false   #自己就不注册到注册中心了
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+    fetch-registry: false
+
+server:
+  port: 1000
+
+spring:
+  application:
+    name: atguigu-crowd-eureka

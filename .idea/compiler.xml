@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="atcrowfunding12-member-authentication-consumer" />
+        <module name="atcrowfunding10-member-mysql-provider" />
+        <module name="atcrowfunding13-member-project-consumer" />
+        <module name="atcrowfunding11-member-redis-provider" />
+        <module name="atcrowfunding14-member-order-consumer" />
+        <module name="atcrowfunding09-member-entity" />
+        <module name="atcrowfunding18-member-reverse" />
+        <module name="atcrowfunding08-member-eureka" />
+        <module name="atcrowfunding16-member-zuul" />
+        <module name="atcrowfunding23-member-pay-consumer" />
+        <module name="atcrowfunding22-member-order-consumer" />
+        <module name="atcrowfunding17-member-api" />
+        <module name="atcrowfunding19-member-util" />
+        <module name="atcrowfunding20-short-message" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="atcrowfunding04-member-redisprovider" target="1.8" />
+      <module name="atcrowfunding07-member-parent" target="1.8" />
+      <module name="atcrowfunding08-member-eureka" target="1.8" />
+      <module name="atcrowfunding09-member-entity" target="1.8" />
+      <module name="atcrowfunding10-member-mysql-provider" target="1.8" />
+      <module name="atcrowfunding11-member-redis-provider" target="1.8" />
+      <module name="atcrowfunding12-member-authentication-consumer" target="1.8" />
+      <module name="atcrowfunding13-member-project-consumer" target="1.8" />
+      <module name="atcrowfunding14-member-order-consumer" target="1.8" />
+      <module name="atcrowfunding15-member-pay-consumer" target="1.8" />
+      <module name="atcrowfunding16-member-zuul" target="1.8" />
+      <module name="atcrowfunding17-member-api" target="1.8" />
+      <module name="atcrowfunding17-member-order-consumer" target="1.8" />
+      <module name="atcrowfunding18-member-pay-consumer" target="1.8" />
+      <module name="atcrowfunding18-member-reverse" target="1.8" />
+      <module name="atcrowfunding19-member-util" target="1.8" />
+      <module name="atcrowfunding20-short-message" target="1.8" />
+      <module name="atcrowfunding20-spring-session-a" target="1.8" />
+      <module name="atcrowfunding21-spring-session-b" target="1.8" />
+      <module name="atcrowfunding22-member-order-consumer" target="1.8" />
+      <module name="atcrowfunding23-member-pay-consumer" target="1.8" />
+      <module name="com.atguigu.spring.cloud.erueka" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="atcrowfunding04-member-redisprovider" options="-parameters" />
+      <module name="atcrowfunding08-member-eureka" options="-parameters" />
+      <module name="atcrowfunding09-member-entity" options="-parameters" />
+      <module name="atcrowfunding10-member-mysql-provider" options="-parameters" />
+      <module name="atcrowfunding11-member-redis-provider" options="-parameters" />
+      <module name="atcrowfunding12-member-authentication-consumer" options="-parameters" />
+      <module name="atcrowfunding13-member-project-consumer" options="-parameters" />
+      <module name="atcrowfunding14-member-order-consumer" options="-parameters" />
+      <module name="atcrowfunding15-member-pay-consumer" options="-parameters" />
+      <module name="atcrowfunding16-member-zuul" options="-parameters" />
+      <module name="atcrowfunding17-member-api" options="-parameters" />
+      <module name="atcrowfunding17-member-order-consumer" options="-parameters" />
+      <module name="atcrowfunding18-member-pay-consumer" options="-parameters" />
+      <module name="atcrowfunding18-member-reverse" options="-parameters" />
+      <module name="atcrowfunding19-member-util" options="-parameters" />
+      <module name="atcrowfunding20-short-message" options="-parameters" />
+      <module name="atcrowfunding20-spring-session-a" options="-parameters" />
+      <module name="atcrowfunding21-spring-session-b" options="-parameters" />
+      <module name="atcrowfunding22-member-order-consumer" options="-parameters" />
+      <module name="atcrowfunding23-member-pay-consumer" options="-parameters" />
+      <module name="com.atguigu.spring.cloud.erueka" options="-parameters" />
+    </option>
+  </component>
+</project>

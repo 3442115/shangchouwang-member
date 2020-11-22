@@ -1,0 +1,34 @@
+server:
+  port: 4000
+
+
+spring:
+  application:
+    name: atguigu-crowd-auth
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    port: 6379
+    password: 123456
+    host: 192.168.117.3
+  session:
+    store-type: redis
+
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+  instance:
+    instance-id: auth-4000
+    prefer-ip-address: true
+show:
+  message:
+    appcode: 8cb8a1e7573e4072ac28ba40fa3df388
+    host: http://dingxin.market.alicloudapi.com
+    path: /dx/sendSms
+    method: POST
+    skin: TP1711063

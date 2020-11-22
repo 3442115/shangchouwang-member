@@ -1,0 +1,20 @@
+spring:
+  redis:
+    password: 123456
+    host: 192.168.117.3
+    port: 6379
+
+  application:
+    name: atguigu-crowd-redis
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+  instance:
+    instance-id: redis-3000
+    prefer-ip-address: true
+server:
+  port: 3000

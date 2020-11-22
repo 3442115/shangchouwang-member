@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0631ca5-54c9-46bb-a175-db3182b05dee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1joPzX4DJALCHdO5P4ZPVkGwKkQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="E:/natappfile/alipay.trade.page.pay-JAVA-UTF-8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4229885" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.crowd.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\atcrowfunding07-member-parent\atcrowfunding07-member-parent\atcrowfunding10-member-mysql-provider\src\main\resources\mapper" />
+      <recent name="D:\atcrowfunding07-member-parent\atcrowfunding07-member-parent\atcrowfunding10-member-mysql-provider\src\main\java\com\atguigu\crowd\mapper" />
+      <recent name="D:\atcrowfunding07-member-parent\atcrowfunding07-member-parent\atcrowfunding09-member-entity\src\main\java\com\atguigu\crowd\po" />
+      <recent name="D:\atcrowfunding07-member-parent\atcrowfunding07-member-parent\atcrowfunding14-member-order-consumer\src\main\resources" />
+      <recent name="D:\atcrowfunding07-member-parent\atcrowfunding07-member-parent\atcrowfunding13-member-project-consumer\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="crowd" />
+      <recent name="" />
+      <recent name="com.atguigu.crowd.controller" />
+      <recent name="com.atguigu.crowd.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\atcrowfunding07-member-parent\atcrowfunding07-member-parent\atcrowfunding13-member-project-consumer\src\main\resources\templates" />
+      <recent name="D:\atcrowfunding07-member-parent\atcrowfunding07-member-parent\atcrowfunding13-member-project-consumer\src\main\java" />
+      <recent name="D:\atcrowfunding07-member-parent\atcrowfunding07-member-parent\atcrowfunding13-member-project-consumer\src\main\java\com\atguigu\crowd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainPay">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="atcrowfunding18-member-pay-consumer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="atcrowfunding18-member-pay-consumer" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAuth4000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowfunding12-member-authentication-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.MainAuth4000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOrder6000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowfunding22-member-order-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.MainOrder6000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOss5000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowfunding13-member-project-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.MainOss5000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowfunding23-member-pay-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.MainPay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainZuul80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="atcrowfunding16-member-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.MainZuul80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MainAuth4000" />
+      <item itemvalue="Spring Boot.MainOss5000" />
+      <item itemvalue="Spring Boot.MainPay" />
+      <item itemvalue="Spring Boot.MainZuul80" />
+      <item itemvalue="Spring Boot.MainOrder6000" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainPay" />
+        <item itemvalue="Spring Boot.MainOrder6000" />
+        <item itemvalue="Spring Boot.MainZuul80" />
+        <item itemvalue="Spring Boot.MainOss5000" />
+        <item itemvalue="Spring Boot.MainAuth4000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0631ca5-54c9-46bb-a175-db3182b05dee" name="Default Changelist" comment="" />
+      <created>1604467733898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604467733898</updated>
+      <workItem from="1604467737860" duration="22887000" />
+      <workItem from="1604538376439" duration="15253000" />
+      <workItem from="1604554824508" duration="23167000" />
+      <workItem from="1604638811843" duration="2800000" />
+      <workItem from="1604662167093" duration="11281000" />
+      <workItem from="1604714810477" duration="26538000" />
+      <workItem from="1604804367749" duration="27724000" />
+      <workItem from="1604892259817" duration="29612000" />
+      <workItem from="1604977501644" duration="26626000" />
+      <workItem from="1605073427868" duration="18422000" />
+      <workItem from="1605152309643" duration="24509000" />
+      <workItem from="1605239761718" duration="2395000" />
+      <workItem from="1605265395716" duration="7710000" />
+      <workItem from="1605352851565" duration="2345000" />
+      <workItem from="1605411121434" duration="411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1605275350374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605275350374" />
+    <state x="223" y="67" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605013382384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605013382384" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1605274343265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605274343265" />
+    <state x="161" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604549086666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="161" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1604549086666" />
+    <state x="341" y="279" width="854" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604557690299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="279" width="854" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1604557690299" />
+    <state x="341" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1604549090515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1604549090515" />
+    <state x="474" y="145" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605098438858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="145" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1605098438858" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604498052985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604498052985" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605188130406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605188130406" />
+    <state width="1147" height="322" key="GridCell.Tab.0.bottom" timestamp="1605276442199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="322" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605276442199" />
+    <state width="1147" height="322" key="GridCell.Tab.0.center" timestamp="1605276442198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="322" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605276442198" />
+    <state width="1147" height="322" key="GridCell.Tab.0.left" timestamp="1605276442197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="322" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605276442197" />
+    <state width="1147" height="322" key="GridCell.Tab.0.right" timestamp="1605276442198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="322" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605276442198" />
+    <state width="1147" height="322" key="GridCell.Tab.1.bottom" timestamp="1605276442202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="322" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605276442202" />
+    <state width="1147" height="322" key="GridCell.Tab.1.center" timestamp="1605276442200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="322" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605276442200" />
+    <state width="1147" height="322" key="GridCell.Tab.1.left" timestamp="1605276442199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="322" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605276442199" />
+    <state width="1147" height="322" key="GridCell.Tab.1.right" timestamp="1605276442201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1147" height="322" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605276442201" />
+    <state width="1230" height="254" key="GridCell.Tab.2.bottom" timestamp="1605106583401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1230" height="254" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605106583401" />
+    <state width="1230" height="254" key="GridCell.Tab.2.center" timestamp="1605106583400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1230" height="254" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1605106583400" />
+    <state width="1230" height="254" key="GridCell.Tab.2.left" timestamp="1605106583400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1230" height="254" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1605106583400" />
+    <state width="1230" height="254" key="GridCell.Tab.2.right" timestamp="1605106583400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1230" height="254" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1605106583400" />
+    <state x="296" y="49" key="Maven.ArtifactSearchDialog" timestamp="1605188647072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="296" y="49" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1605188647072" />
+    <state x="408" y="115" key="NewModule_or_Project.wizard" timestamp="1605076270614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="115" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1605076270614" />
+    <state x="5" y="0" key="SettingsEditor" timestamp="1605082203193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="5" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605082203193" />
+    <state width="723" height="446" key="SwitcherDM" timestamp="1605098599416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1605098599416" />
+    <state x="540" y="153" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604672843640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="153" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1604672843640" />
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1605192064079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1605192064079" />
+    <state x="467" y="144" width="895" height="536" key="find.popup" timestamp="1605168876083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="144" width="895" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1605168876083" />
+    <state x="356" y="91" key="new project wizard" timestamp="1605411219126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="91" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605411219126" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604893904377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604893904377" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1604895188666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604895188666" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/atcrowfunding11-member-redis-provider/src/test/java/com/atguigu/crowd/RedisTest.java</url>
+          <line>14</line>
+          <properties field="stringRedisTemplate" class="com.atguigu.crowd.RedisTest" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

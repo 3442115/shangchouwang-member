@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+<parent>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <groupId>org.springframework.boot</groupId>
+    <version>2.3.4.RELEASE</version>
+</parent>
+    <groupId>com.atguigu.crow</groupId>
+    <artifactId>atcrowfunding07-member-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>atcrowfunding08-member-eureka</module>
+        <module>atcrowfunding09-member-entity</module>
+        <module>atcrowfunding10-member-mysql-provider</module>
+        <module>atcrowfunding11-member-redis-provider</module>
+        <module>atcrowfunding12-member-authentication-consumer</module>
+        <module>atcrowfunding13-member-project-consumer</module>
+        <module>atcrowfunding19-member-util</module>
+        <module>atcrowfunding16-member-zuul</module>
+        <module>atcrowfunding17-member-api</module>
+        <module>atcrowfunding18-member-reverse</module>
+        <module>atcrowfunding20-short-message</module>
+        <module>atcrowfunding22-member-order-consumer</module>
+        <module>atcrowfunding23-member-pay-consumer</module>
+
+    </modules>
+
+    <packaging>pom</packaging>
+
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>2.2.7.RELEASE</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>Hoxton.SR8</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+                <version>0.9.0.RELEASE</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+
+            <dependency>
+                <groupId>org.mybatis.spring.boot</groupId>
+                <artifactId>mybatis-spring-boot-starter</artifactId>
+                <version>2.1.1</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>druid</artifactId>
+                <version>1.1.24</version>
+            </dependency>
+        </dependencies>
+
+    </dependencyManagement>
+</project>

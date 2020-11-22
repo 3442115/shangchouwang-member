@@ -1,0 +1,38 @@
+
+
+
+ali:
+  pay:
+    app-id: 2016110100783599
+    merchant-private-key: MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD3dxgr/l2rVynSY5Xzsry2uy8ZajcpKtGQPv/dsdOBgqIXWIKLFVSRYR5cWTIO0sEs12tn0p5hIZZTR3ObaDDk633CKnwffNEDOMzq/MQzXQLMgtarNxND0/uYC+jfF02eMzmdSwdXgcowpjzUJ+0lbDsbbm4A3z2P8Zfzw9ihsCjyfdBvkJ8mbPJtUoTpFhGD8mxOueB1wnNxWl6Xt5VsWI7QAiTrxQSypH/70jRuQHUrEr5AR3u8veQ2VR8OHjsJbYkSoAZjIP8bsnSjtr+yKhMcGTR2APOcGSWcqqhBU8iQR2/SFAhUZMR/evdgYj+XBMd3dKJr2XLuRB5ZcLDHAgMBAAECggEBALmYmIhmPdpDhRpFljEv3FkwCiMFhllZw9JrbXrX48k+MFNSDpZBaSufqyWXv/NeHYOEDQnQ7PfsONI8xHfJrOIDvE3jjzQOaLQB5a5X5M6g83huqJHAvLIiSo++XujykUQVJyDRJLB8pyfVhcmYKEPo6GuqZtZAl+tdRpmMSOz5uDCviwXH+GdFZa8kh8MvHJQDY+h4VXuTz0KdNGuOMejOcslAWAD+vhRvFzDotwwOq3oOrNDTOc2AsocchGGXCuhRspIuGNMsTXzc6l7+v4qEwO5TSsvc99IV+LEIVuXBC+mtsDdozaAnerWLPFoV0kgpRoRhQ8vs1vzd8pwHAAECgYEA++egSDT6f4BRvLpjc7qbVXC8PKOlzCX0Y6oCb6K62kZhS4Gl7ae6MDqIycavCjl7Ca2CzF2ER5hM8yBETLxMofWCUGfM00Z3L+EEwpkTOJruXSY2l67k/zcYs27rvWP3b4f79Mogzh5Hkw6clsB3J77tz2fu6o2GCazsxosio1cCgYEA+3z940jSIhHIzxeMHU7cPGRg5RtDwbVBq/7HUD6j6TH2yS7CtZeXKwk00V/N9O5odsdCaLjDJfjNm7ZSGFRXsxTFFNBSTxr4Tlkf0xAXXmA1/Acc+0g8RNDuDnm9ivU8bCSpWIEnM3+BDZ+BHhjS3LAc5H1QrPdn5V8Qwyur6BECgYAEcIGXpC9h/d3y6IoGKRzBtbnri6rJXUXgV8exNfn7DNB8Jy3IcXNLlEyC2diN4pNziTZL6b4CEQISKthpTcw/8na4egvXEV/aXSnbUB1RmxFmXN0LcU6h3NO3ndXTwaZDte7P0pwfZdM3GUPTOFMhRTElvZwtUA8zrnOB0EPtAwKBgQCapiFGXCiENOWEnBlYiH8cUCnZmWuQOhM5XkJY0TxgkY4N50hq/N5D47RsMHrpbJYmvJ/U4BF5T0e4wmQ3e942TMZo5zZGWPJq05mjZBjKu2VXJ1SmHaSaONS7aBer1OSkJ+NPfpSJsZW9t+FhjahVd6M8yucKhlWIkm4vZrKe0QKBgQCgS32uaKY26Gig5mzUDvjgZ12D1Chh1ZMsJglEbYT8NIr4jh6MZfIaGkiqr5RubVX2M73vpvT9cea5qLRaE+GN/uPWBJNGhLnMEKeOFkNpxX2smDzU98vrjPRDhdNgboqSgtG/E2G/xWNNnRZUx5WW3iVr5WDegqQFoLhXiLxmxg==
+    notify-url: http://xzf82q.natappfree.cc/pay/notify
+    return-url: http://www.abc.com/pay/return
+            # 如果使用隧道访问  和原来的cookie不同，就会要求重新登陆
+    sign-type: RSA2
+    charset: utf-8
+    gateway-url: https://openapi.alipaydev.com/gateway.do
+    alipay-public-key: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAusJEGNdlEM5NMUZaH9YOjgs0DCgOkbzA5ZV9euUjECs3E1uOeROCgsG64uHhVROlBh1E0A6ftBMJXjTUa4HemFFggYR/qRNXB4MPGg6JDAk4LlZhkj4nMEc1EWsA1NSRazBUeNovsm5z0ueBqaebBTBLS97EFs92Jq/b6MuOqVK6c65qGkwP+lgIqVJGjMXeCvAMbq5yA1GYGOxAl91nQ55kh2jiN4Pj2q6ysgZ+jCyIXRSVZLEqhNuOcSBTBemn601gElUjPuFDOSRcl8hw9BGP9sV+Bh9BoHGrZGzRs8qXLmK7N1IHWa7W7E2KEIvqePrqwODDlLFfoearQfTFgQIDAQAB
+server:
+  port: 7000
+spring:
+   application:
+     name: atguigu-crowd-pay
+   thymeleaf:
+     prefix: classpath:/templates/
+     suffix: .html
+   redis:
+     port: 6379
+     host: 192.168.117.3
+     password: 123456
+   session:
+     store-type: redis
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+  instance:
+    instance-id: pay-7000
+    prefer-ip-address: true

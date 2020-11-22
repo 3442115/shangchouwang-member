@@ -1,0 +1,23 @@
+server:
+  port: 6000
+spring:
+  application:
+    name: atguigu-crowd-order
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    host: 192.168.117.3
+    password: 123456
+    port: 6379
+  session:
+    store-type: redis
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+  instance:
+    instance-id: order-6000
+    prefer-ip-address: true

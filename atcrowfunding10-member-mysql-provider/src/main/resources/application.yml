@@ -1,0 +1,28 @@
+server:
+  port: 2000
+
+spring:
+  application:
+    name: atguigu-crowd-mysql
+  datasource:
+      username: root
+      password: admin
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://192.168.152.1:3306/project_crowd?useUnicode=true&characterEncoding=utf8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+      type: com.alibaba.druid.pool.DruidDataSource
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: "com.atguigu.crowd.po"
+
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+  instance:
+    instance-id: mysql-2000
+    prefer-ip-address: true
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding07-member-parent.iml" filepath="$PROJECT_DIR$/atcrowfunding07-member-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding08-member-eureka/atcrowfunding08-member-eureka.iml" filepath="$PROJECT_DIR$/atcrowfunding08-member-eureka/atcrowfunding08-member-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding09-member-entity/atcrowfunding09-member-entity.iml" filepath="$PROJECT_DIR$/atcrowfunding09-member-entity/atcrowfunding09-member-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding10-member-mysql-provider/atcrowfunding10-member-mysql-provider.iml" filepath="$PROJECT_DIR$/atcrowfunding10-member-mysql-provider/atcrowfunding10-member-mysql-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding11-member-redis-provider/atcrowfunding11-member-redis-provider.iml" filepath="$PROJECT_DIR$/atcrowfunding11-member-redis-provider/atcrowfunding11-member-redis-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding12-member-authentication-consumer/atcrowfunding12-member-authentication-consumer.iml" filepath="$PROJECT_DIR$/atcrowfunding12-member-authentication-consumer/atcrowfunding12-member-authentication-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding13-member-project-consumer/atcrowfunding13-member-project-consumer.iml" filepath="$PROJECT_DIR$/atcrowfunding13-member-project-consumer/atcrowfunding13-member-project-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding16-member-zuul/atcrowfunding16-member-zuul.iml" filepath="$PROJECT_DIR$/atcrowfunding16-member-zuul/atcrowfunding16-member-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding17-member-api/atcrowfunding17-member-api.iml" filepath="$PROJECT_DIR$/atcrowfunding17-member-api/atcrowfunding17-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding18-member-reverse/atcrowfunding18-member-reverse.iml" filepath="$PROJECT_DIR$/atcrowfunding18-member-reverse/atcrowfunding18-member-reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding19-member-util/atcrowfunding19-member-util.iml" filepath="$PROJECT_DIR$/atcrowfunding19-member-util/atcrowfunding19-member-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding20-short-message/atcrowfunding20-short-message.iml" filepath="$PROJECT_DIR$/atcrowfunding20-short-message/atcrowfunding20-short-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding22-member-order-consumer/atcrowfunding22-member-order-consumer.iml" filepath="$PROJECT_DIR$/atcrowfunding22-member-order-consumer/atcrowfunding22-member-order-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowfunding23-member-pay-consumer/atcrowfunding23-member-pay-consumer.iml" filepath="$PROJECT_DIR$/atcrowfunding23-member-pay-consumer/atcrowfunding23-member-pay-consumer.iml" />
+    </modules>
+  </component>
+</project>
