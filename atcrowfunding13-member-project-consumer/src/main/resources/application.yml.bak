@@ -23,7 +23,7 @@ eureka:
     prefer-ip-address: true
 aliyun:
   oss:
-    access-key-id: 
+    access-key-id: LTAI4GJjXHnBpLT7g726552z
     access-key-secret: K8LUgdQFlkRLmoYqUtirT3igaLG0m3
     bucket-domain: http://atguigu190803.oss-cn-beijing.aliyuncs.com
     bucket-name: atguigu190803

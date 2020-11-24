@@ -9,7 +9,6 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableFeignClients
-
 public class MainAuth4000 {
     public static void main(String[] args) {
         SpringApplication.run(MainAuth4000.class,args);
